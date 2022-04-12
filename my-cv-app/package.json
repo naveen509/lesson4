@@ -1,0 +1,18 @@
+{
+  "name": "naveen-cv",
+  "version": "1.0.0",
+  "description": "display-cv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2",
+    "cli-table": "^0.3.11",
+    "figures": "^3.2.0",
+    "log-symbols": "^4.1.0"
+  }
+}
